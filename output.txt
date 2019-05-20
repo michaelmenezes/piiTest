@@ -1,0 +1,32 @@
+{
+  "errors": [
+    1, 
+    2, 
+    4, 
+    5, 
+    8
+  ], 
+  "entries": [
+    {
+      "color": "yellow", 
+      "lastname": "Stevenson", 
+      "phonenumber": "028-164-6574", 
+      "zipcode": "84880", 
+      "firstname": "Jamie"
+    }, 
+    {
+      "color": " Blue", 
+      "lastname": "Peters", 
+      "phonenumber": "925-555-1213", 
+      "zipcode": "94555", 
+      "firstname": "John"
+    }, 
+    {
+      "color": " Green", 
+      "lastname": "Smith", 
+      "phonenumber": "925-555-1212", 
+      "zipcode": "94555", 
+      "firstname": "John"
+    }
+  ]
+}
