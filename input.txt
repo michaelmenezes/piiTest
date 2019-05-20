@@ -3,6 +3,9 @@ Cameron, Kathy, (613)-658-9293, red, 143123121
 Jamie Stevenson, yellow, 84880, 028 164 6574
 Jamie Stevenson, yellow, 84880, 028 164 6574, blah
 asdfawfsdfsdfdsjh
-Smith, John, (925)-555-1212, Green, 94555
-Peters, John, (925)-555-1213, Blue, 94555
-Brown, Mike, (925)-555-1213, Blue, bogus-zipcode
+
+Brown, John, (925)-555-1212, Green, 94555
+Brown, Abe, (925)-555-1213, Blue, 94556
+Smith, Mike, (925)-555-1213, Blue, bogus-zipcode
+&^%&^, ^*&^*, 8)*)*)(, #@#@!#@, (*)*))*)
+123-555-1212

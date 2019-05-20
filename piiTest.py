@@ -136,7 +136,7 @@ for line in input_file:
         line_no += 1
 
 out = {}
-out['entries'] = sorted(output, key = lambda i: (i['firstname'], i['lastname']))
+out['entries'] = sorted(output, key = lambda i: (i['lastname'], i['firstname']))
 out['errors'] = error_list
 output_file.write(json.dumps(out, indent = 2))
 
