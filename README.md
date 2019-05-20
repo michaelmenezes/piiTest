@@ -6,6 +6,7 @@ Process PII (Personally Identifiable Information) into JSON documents. Please us
 
 Input to your program 
 A file with each line contains “PII”, information, which consists of a first name, last name, phone number, favorite color and zip code. The order and format of these lines vary in several ways, but for this test, the following three different formats are observed: 
+    
     LastName, FirstName, (703)-711-0996, Blue, 11013 is a valid line
     LastName, FirstName, 12023, 636 121 1111, Yellow is an invalid line
     FirstName LastName, Purple, 14537, 713 905 0383 is a valid line
